@@ -1,4 +1,4 @@
-package lumarasports;
+package es.fplumara.dam1.lumarasports;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
